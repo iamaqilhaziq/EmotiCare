@@ -208,7 +208,7 @@ EmotiCare uses a modular architecture that connects the user-facing web applicat
                                │
                                ▼
                   ┌─────────────────────────┐
-                  │ EmotiCare Web Platform │
+                  │ EmotiCare Web Platform  │
                   └────────────┬────────────┘
                                │
                   ┌────────────┴────────────┐
