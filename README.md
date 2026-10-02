@@ -129,7 +129,7 @@ The following screenshots demonstrate the implemented EmotiCare web platform, co
 <table>
 <tr>
 <td width="50%" align="center">
-<img src="screenshots/main-dashboard.jpeg" width="100%">
+<img src="screenshots/dashboard.jpeg" width="100%">
 <br><b>Main Dashboard</b>
 </td>
 <td width="50%" align="center">
@@ -200,7 +200,7 @@ The following screenshots demonstrate the implemented EmotiCare web platform, co
 <table>
 <tr>
 <td width="50%" align="center">
-<img src="screenshots/user-profile.jpeg" width="100%">
+<img src="screenshots/profile.jpeg" width="100%">
 <br><b>User Profile</b>
 </td>
 <td width="50%"></td>
