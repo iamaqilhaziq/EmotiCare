@@ -180,38 +180,6 @@ The current EmotiCare AI-assisted emotional analysis workflow incorporates:
 
 ---
 
-## Research and Future Development
-
-The current production emotional analysis workflow should be distinguished from the future research direction associated with EmotiCare.
-
-Future research investigates the optimisation of LLaMA models for accurate mental health conversational assistance.
-
-The research considers:
-
-### Model Investigation
-
-- LLaMA
-
-### Automated Evaluation
-
-- BLEU
-- ROUGE-N
-- BERTScore
-
-### Human-Centred Evaluation
-
-- Empathy
-- Appropriateness
-- Consistency
-
-### Research Objective
-
-The research aims to investigate model performance, strengths, limitations, and optimisation approaches for mental health conversational assistance.
-
-> **Important:** LLaMA represent a research and future development direction and are not presented as the current production emotion-classification pipeline.
-
----
-
 ## Human-Centered Principle
 
 AI-assisted analysis in EmotiCare is intended to support the broader emotional-care process.
