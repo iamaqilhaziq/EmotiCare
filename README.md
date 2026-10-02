@@ -110,37 +110,37 @@ No separate mobile application is required.
 ### Main Dashboard
 
 <p align="center">
-  <img src="screenshots/dashboard.png" width="800" alt="EmotiCare Main Dashboard">
+  <img src="screenshots/dashboard.jpeg" width="800" alt="EmotiCare Main Dashboard">
 </p>
 
 ### Mood Check-In
 
 <p align="center">
-  <img src="screenshots/mood-checkin.png" width="800" alt="EmotiCare Mood Check-In">
+  <img src="screenshots/mood-checkin.jpeg" width="800" alt="EmotiCare Mood Check-In">
 </p>
 
 ### Emotional Assessment
 
 <p align="center">
-  <img src="screenshots/assessment.png" width="800" alt="EmotiCare Emotional Assessment">
+  <img src="screenshots/assessment.jpeg" width="800" alt="EmotiCare Emotional Assessment">
 </p>
 
 ### Digital Journaling
 
 <p align="center">
-  <img src="screenshots/journal.png" width="800" alt="EmotiCare Digital Journaling">
+  <img src="screenshots/journal.jpeg" width="800" alt="EmotiCare Digital Journaling">
 </p>
 
 ### Wellness Activities
 
 <p align="center">
-  <img src="screenshots/activities.png" width="800" alt="EmotiCare Wellness Activities">
+  <img src="screenshots/activities.jpeg" width="800" alt="EmotiCare Wellness Activities">
 </p>
 
 ### Results
 
 <p align="center">
-  <img src="screenshots/results.png" width="800" alt="EmotiCare Results">
+  <img src="screenshots/results.jpeg" width="800" alt="EmotiCare Results">
 </p>
 
 ---
@@ -287,11 +287,10 @@ Additional project documentation is available within this repository.
 
 ## Research Direction
 
-The future research direction associated with EmotiCare investigates the optimisation of GPT and LLaMA models for accurate mental health conversational assistance.
+The future research direction associated with EmotiCare investigates the optimisation of LLaMA models for accurate mental health conversational assistance.
 
 The research focuses on:
 
-- Comparing GPT and LLaMA models
 - Analysing model strengths and limitations
 - Evaluating conversational response quality
 - Optimising mental health conversational assistance
@@ -313,7 +312,7 @@ Human-centred evaluation considers aspects such as:
 - Appropriateness
 - Consistency
 
-> **Important:** GPT and LLaMA represent the project's research and future development direction. They should not be interpreted as the current production emotion-classification pipeline used by EmotiCare.
+> **Important:** LLaMA represent the project's research and future development direction. They should not be interpreted as the current production emotion-classification pipeline used by EmotiCare.
 
 ---
 
