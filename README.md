@@ -114,11 +114,11 @@ The following screenshots demonstrate the implemented EmotiCare web platform, co
 <table>
 <tr>
 <td width="50%" align="center">
-<img src="screenshots/01-login.jpeg" width="100%">
+<img src="screenshots/login.jpeg" width="100%">
 <br><b>Login</b>
 </td>
 <td width="50%" align="center">
-<img src="screenshots/02-registration.jpeg" width="100%">
+<img src="screenshots/registration.jpeg" width="100%">
 <br><b>Registration</b>
 </td>
 </tr>
@@ -129,11 +129,11 @@ The following screenshots demonstrate the implemented EmotiCare web platform, co
 <table>
 <tr>
 <td width="50%" align="center">
-<img src="screenshots/03-main-dashboard.jpeg" width="100%">
+<img src="screenshots/main-dashboard.jpeg" width="100%">
 <br><b>Main Dashboard</b>
 </td>
 <td width="50%" align="center">
-<img src="screenshots/04-mood-checkin.jpeg" width="100%">
+<img src="screenshots/mood-checkin.jpeg" width="100%">
 <br><b>Mood Check-In</b>
 </td>
 </tr>
@@ -144,22 +144,22 @@ The following screenshots demonstrate the implemented EmotiCare web platform, co
 <table>
 <tr>
 <td width="50%" align="center">
-<img src="screenshots/05-assessment.jpeg" width="100%">
+<img src="screenshots/assessment.jpeg" width="100%">
 <br><b>Emotional Assessment</b>
 </td>
 <td width="50%" align="center">
-<img src="screenshots/10-dass21-result.jpeg" width="100%">
+<img src="screenshots/dass21-result.jpeg" width="100%">
 <br><b>DASS-21 Result</b>
 </td>
 </tr>
 
 <tr>
 <td width="50%" align="center">
-<img src="screenshots/11-sseit-result.jpeg" width="100%">
+<img src="screenshots/sseit-result.jpeg" width="100%">
 <br><b>SSEIT Result</b>
 </td>
 <td width="50%" align="center">
-<img src="screenshots/09-result-hub.jpeg" width="100%">
+<img src="screenshots/result-hub.jpeg" width="100%">
 <br><b>Result Hub</b>
 </td>
 </tr>
@@ -170,11 +170,11 @@ The following screenshots demonstrate the implemented EmotiCare web platform, co
 <table>
 <tr>
 <td width="50%" align="center">
-<img src="screenshots/06-journal.jpeg" width="100%">
+<img src="screenshots/journal.jpeg" width="100%">
 <br><b>Reflective Journal</b>
 </td>
 <td width="50%" align="center">
-<img src="screenshots/07-journal-history.jpeg" width="100%">
+<img src="screenshots/journal-history.jpeg" width="100%">
 <br><b>Journal History</b>
 </td>
 </tr>
@@ -185,11 +185,11 @@ The following screenshots demonstrate the implemented EmotiCare web platform, co
 <table>
 <tr>
 <td width="50%" align="center">
-<img src="screenshots/08-activity-hub.jpeg" width="100%">
+<img src="screenshots/activity-hub.jpeg" width="100%">
 <br><b>Activity Hub</b>
 </td>
 <td width="50%" align="center">
-<img src="screenshots/12-game-hub.jpeg" width="100%">
+<img src="screenshots/game-hub.jpeg" width="100%">
 <br><b>Game Hub</b>
 </td>
 </tr>
@@ -200,7 +200,7 @@ The following screenshots demonstrate the implemented EmotiCare web platform, co
 <table>
 <tr>
 <td width="50%" align="center">
-<img src="screenshots/13-user-profile.jpeg" width="100%">
+<img src="screenshots/user-profile.jpeg" width="100%">
 <br><b>User Profile</b>
 </td>
 <td width="50%"></td>
@@ -212,22 +212,22 @@ The following screenshots demonstrate the implemented EmotiCare web platform, co
 <table>
 <tr>
 <td width="50%" align="center">
-<img src="screenshots/14-admin-dashboard.jpeg" width="100%">
+<img src="screenshots/admin-dashboard.jpeg" width="100%">
 <br><b>Admin Dashboard</b>
 </td>
 <td width="50%" align="center">
-<img src="screenshots/15-users-management.jpeg" width="100%">
+<img src="screenshots/users-management.jpeg" width="100%">
 <br><b>Users Management</b>
 </td>
 </tr>
 
 <tr>
 <td width="50%" align="center">
-<img src="screenshots/16-activities-management.jpeg" width="100%">
+<img src="screenshots/activities-management.jpeg" width="100%">
 <br><b>Activities Management</b>
 </td>
 <td width="50%" align="center">
-<img src="screenshots/17-results-management.jpeg" width="100%">
+<img src="screenshots/results-management.jpeg" width="100%">
 <br><b>Results Management</b>
 </td>
 </tr>
