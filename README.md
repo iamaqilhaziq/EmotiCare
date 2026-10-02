@@ -105,43 +105,133 @@ No separate mobile application is required.
 
 ---
 
-## Interface Preview
+## 🖥️ EmotiCare Interface Showcase
 
-### Main Dashboard
+The following screenshots demonstrate the implemented EmotiCare web platform, covering authentication, emotional monitoring, assessments, journaling, wellness activities, results, and administrative management.
 
-<p align="center">
-  <img src="screenshots/dashboard.jpeg" width="800" alt="EmotiCare Main Dashboard">
-</p>
+### 🔐 Authentication
 
-### Mood Check-In
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="screenshots/01-login.jpeg" width="100%">
+<br><b>Login</b>
+</td>
+<td width="50%" align="center">
+<img src="screenshots/02-registration.jpeg" width="100%">
+<br><b>Registration</b>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="screenshots/mood-checkin.jpeg" width="800" alt="EmotiCare Mood Check-In">
-</p>
+### 🏠 Main User Experience
 
-### Emotional Assessment
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="screenshots/03-main-dashboard.jpeg" width="100%">
+<br><b>Main Dashboard</b>
+</td>
+<td width="50%" align="center">
+<img src="screenshots/04-mood-checkin.jpeg" width="100%">
+<br><b>Mood Check-In</b>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="screenshots/assessment.jpeg" width="800" alt="EmotiCare Emotional Assessment">
-</p>
+### 🧠 Emotional Assessment
 
-### Digital Journaling
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="screenshots/05-assessment.jpeg" width="100%">
+<br><b>Emotional Assessment</b>
+</td>
+<td width="50%" align="center">
+<img src="screenshots/10-dass21-result.jpeg" width="100%">
+<br><b>DASS-21 Result</b>
+</td>
+</tr>
 
-<p align="center">
-  <img src="screenshots/journal.jpeg" width="800" alt="EmotiCare Digital Journaling">
-</p>
+<tr>
+<td width="50%" align="center">
+<img src="screenshots/11-sseit-result.jpeg" width="100%">
+<br><b>SSEIT Result</b>
+</td>
+<td width="50%" align="center">
+<img src="screenshots/09-result-hub.jpeg" width="100%">
+<br><b>Result Hub</b>
+</td>
+</tr>
+</table>
 
-### Wellness Activities
+### 📔 Journaling & Emotional Reflection
 
-<p align="center">
-  <img src="screenshots/activities.jpeg" width="800" alt="EmotiCare Wellness Activities">
-</p>
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="screenshots/06-journal.jpeg" width="100%">
+<br><b>Reflective Journal</b>
+</td>
+<td width="50%" align="center">
+<img src="screenshots/07-journal-history.jpeg" width="100%">
+<br><b>Journal History</b>
+</td>
+</tr>
+</table>
 
-### Results
+### 🌱 Wellness & Engagement
 
-<p align="center">
-  <img src="screenshots/results.jpeg" width="800" alt="EmotiCare Results">
-</p>
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="screenshots/08-activity-hub.jpeg" width="100%">
+<br><b>Activity Hub</b>
+</td>
+<td width="50%" align="center">
+<img src="screenshots/12-game-hub.jpeg" width="100%">
+<br><b>Game Hub</b>
+</td>
+</tr>
+</table>
+
+### 👤 User Profile
+
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="screenshots/13-user-profile.jpeg" width="100%">
+<br><b>User Profile</b>
+</td>
+<td width="50%"></td>
+</tr>
+</table>
+
+### ⚙️ Administration
+
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="screenshots/14-admin-dashboard.jpeg" width="100%">
+<br><b>Admin Dashboard</b>
+</td>
+<td width="50%" align="center">
+<img src="screenshots/15-users-management.jpeg" width="100%">
+<br><b>Users Management</b>
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+<img src="screenshots/16-activities-management.jpeg" width="100%">
+<br><b>Activities Management</b>
+</td>
+<td width="50%" align="center">
+<img src="screenshots/17-results-management.jpeg" width="100%">
+<br><b>Results Management</b>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -282,37 +372,6 @@ Additional project documentation is available within this repository.
 | [Features](docs/features.md) | Overview of major EmotiCare functions |
 | [Technology Stack](docs/technology-stack.md) | Technologies used by the platform |
 | [AI Workflow](docs/ai-workflow.md) | AI-assisted emotional analysis workflow |
-
----
-
-## Research Direction
-
-The future research direction associated with EmotiCare investigates the optimisation of LLaMA models for accurate mental health conversational assistance.
-
-The research focuses on:
-
-- Analysing model strengths and limitations
-- Evaluating conversational response quality
-- Optimising mental health conversational assistance
-- Investigating human-centred qualities of generated responses
-
-### Automated Evaluation
-
-The research considers automated evaluation approaches including:
-
-- BLEU
-- ROUGE-N
-- BERTScore
-
-### Human-Centred Evaluation
-
-Human-centred evaluation considers aspects such as:
-
-- Empathy
-- Appropriateness
-- Consistency
-
-> **Important:** LLaMA represent the project's research and future development direction. They should not be interpreted as the current production emotion-classification pipeline used by EmotiCare.
 
 ---
 
