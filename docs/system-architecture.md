@@ -22,7 +22,7 @@ The architecture supports emotional assessments, mood monitoring, digital journa
                                │
                                ▼
                   ┌─────────────────────────┐
-                  │ EmotiCare Web Platform │
+                  │ EmotiCare Web Platform  │
                   └────────────┬────────────┘
                                │
                   ┌────────────┴────────────┐
