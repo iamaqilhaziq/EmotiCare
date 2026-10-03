@@ -368,7 +368,7 @@ Additional project documentation is available within this repository.
 
 | Document | Description |
 |---|---|
-| [Visual Overview (PDF)](docs/Visual Overview.pdf)
+| [Visual Overview (PDF)](Visual-Overview.pdf)
 | [System Architecture](docs/system-architecture.md) | High-level platform architecture and component interaction |
 | [Features](docs/features.md) | Overview of major EmotiCare functions |
 | [Technology Stack](docs/technology-stack.md) | Technologies used by the platform |
